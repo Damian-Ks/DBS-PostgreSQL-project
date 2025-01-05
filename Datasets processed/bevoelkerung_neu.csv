@@ -1,0 +1,378 @@
+Ort_Name;ID_Bundesland;Bevoelkerungsstand_insgesamt;Bevoelkerungsstand_maennlich;Bevoelkerungsstand_weiblich;Kreise_und_Stadt
+Flensburg;1;92550;45874;46676;kreisfreie Stadt
+Kiel;1;247717;120149;127568;kreisfreie Stadt
+Lübeck;1;218095;104723;113372;kreisfreie Stadt
+Neumünster;1;79502;39256;40246;kreisfreie Stadt
+Dithmarschen;1;135252;66561;68691;Kreis
+Herzogtum Lauenburg;1;203712;99689;104023;Kreis
+Nordfriesland;1;169043;82669;86374;Kreis
+Ostholstein;1;203606;97822;105784;Kreis
+Pinneberg;1;322130;157663;164467;Kreis
+Plön;1;131266;63357;67909;Kreis
+Rendsburg-Eckernförde;1;278979;137154;141825;Kreis
+Schleswig-Flensburg;1;206038;101614;104424;Kreis
+Segeberg;1;284988;140654;144334;Kreis
+Steinburg;1;132419;65268;67151;Kreis
+Stormarn;1;247973;120816;127157;Kreis
+Hamburg;2;1892122;925616;966506;kreisfreie Stadt
+Braunschweig;3;251804;124770;127034;kreisfreie Stadt
+Salzgitter;3;104548;51829;52719;kreisfreie Stadt
+Wolfsburg;3;125961;62441;63520;kreisfreie Stadt
+Gifhorn;3;180232;89675;90557;Landkreis
+Goslar;3;134672;66690;67982;Landkreis
+Helmstedt;3;92470;45648;46822;Landkreis
+Northeim;3;133258;65576;67682;Landkreis
+Peine;3;138931;68750;70181;Landkreis
+Wolfenbüttel;3;120531;59652;60879;Landkreis
+Göttingen;3;328458;161027;167431;Landkreis
+Region Hannover;3;1173891;573513;600378;Landkreis
+Hannover;3;545045;266093;278952;Landeshauptstadt
+Diepholz;3;222816;110415;112401;Landkreis
+Hameln-Pyrmont;3;150640;72781;77859;Landkreis
+Hildesheim;3;278371;135757;142614;Landkreis
+Holzminden;3;70911;35112;35799;Landkreis
+Nienburg (Weser);3;123469;61060;62409;Landkreis
+Schaumburg;3;159960;78375;81585;Landkreis
+Celle;3;181994;89138;92856;Landkreis
+Cuxhaven;3;201413;98150;103263;Landkreis
+Harburg;3;261890;128854;133036;Landkreis
+Lüchow-Dannenberg;3;49178;23981;25197;Landkreis
+Lüneburg;3;187552;91180;96372;Landkreis
+Osterholz;3;116551;56813;59738;Landkreis
+Rotenburg;3;167604;83960;83644;Landkreis
+Heidekreis;3;145394;72697;72697;Landkreis
+Stade;3;210306;104302;106004;Landkreis
+Uelzen;3;94362;45906;48456;Landkreis
+Verden;3;140913;69141;71772;Landkreis
+Delmenhorst;3;78385;38557;39828;kreisfreie Stadt
+Emden;3;50535;25071;25464;kreisfreie Stadt
+Wilhelmshaven;3;76089;37268;38821;kreisfreie Stadt
+Ammerland;3;128253;62498;65755;Landkreis
+Aurich;3;192072;94234;97838;Landkreis
+Cloppenburg;3;177701;89720;87981;Landkreis
+Emsland;3;338052;171160;166892;Landkreis
+Friesland;3;100277;48749;51528;Landkreis
+Grafschaft Bentheim;3;141269;70508;70761;Landkreis
+Leer;3;174348;86640;87708;Landkreis
+Oldenburg;3;133913;66240;67673;Landkreis
+Osnabrück;3;366221;181603;184618;Landkreis
+Vechta;3;146924;73728;73196;Landkreis
+Wesermarsch;3;89568;44652;44916;Landkreis
+Wittmund;3;58359;28504;29855;Landkreis
+Bremen;4;569396;280842;288554;kreisfreie Stadt
+Bremerhaven;4;115468;57391;58077;kreisfreie Stadt
+Düsseldorf;5;629047;303510;325537;kreisfreie Stadt
+Duisburg;5;502211;247892;254319;kreisfreie Stadt
+Essen;5;584580;284152;300428;kreisfreie Stadt
+Krefeld;5;228426;111189;117237;kreisfreie Stadt
+Mönchengladbach;5;268465;132961;135504;kreisfreie Stadt
+Mülheim an der Ruhr;5;172404;83069;89335;kreisfreie Stadt
+Oberhausen;5;210824;102910;107914;kreisfreie Stadt
+Remscheid;5;112613;55709;56904;kreisfreie Stadt
+Solingen;5;160643;78038;82605;kreisfreie Stadt
+Wuppertal;5;358876;175788;183088;kreisfreie Stadt
+Kleve;5;319290;158966;160324;Kreis
+Mettmann;5;489794;236563;253231;Kreis
+Rhein-Kreis Neuss;5;457264;221712;235552;Kreis
+Viersen;5;300882;146635;154247;Kreis
+Wesel;5;465838;226869;238969;Kreis
+Bonn;5;336465;160769;175696;kreisfreie Stadt
+Köln;5;1084831;526588;558243;kreisfreie Stadt
+Leverkusen;5;165748;80681;85067;kreisfreie Stadt
+Aachen;5;252136;131493;120643;kreisfreie Stadt
+Düren;5;270833;134058;136775;Kreis
+Rhein-Erft-Kreis;5;478126;232974;245152;Kreis
+Euskirchen;5;197247;97449;99798;Kreis
+Heinsberg;5;261833;129489;132344;Kreis
+Oberbergischer Kreis;5;275404;135188;140216;Kreis
+Rheinisch-Bergischer Kreis;5;286213;138313;147900;Kreis
+Rhein-Sieg-Kreis;5;608335;297515;310820;Kreis
+Bottrop;5;118113;57364;60749;kreisfreie Stadt
+Gelsenkirchen;5;263000;130545;132455;kreisfreie Stadt
+Münster;5;320946;153935;167011;kreisfreie Stadt
+Borken;5;379070;189377;189693;Kreis
+Coesfeld;5;224692;110765;113927;Kreis
+Recklinghausen;5;619732;301126;318606;Kreis
+Steinfurt;5;456464;227186;229278;Kreis
+Warendorf;5;282263;139373;142890;Kreis
+Bielefeld;5;338332;163149;175183;kreisfreie Stadt
+Gütersloh;5;371309;184955;186354;Kreis
+Herford;5;253551;124664;128887;Kreis
+Höxter;5;141819;70597;71222;Kreis
+Lippe;5;350588;171767;178821;Kreis
+Minden-Lübbecke;5;315974;156058;159916;Kreis
+Paderborn;5;313758;156955;156803;Kreis
+Bochum;5;365742;178377;187365;kreisfreie Stadt
+Dortmund;5;593317;290847;302470;kreisfreie Stadt
+Hagen;5;189783;92810;96973;kreisfreie Stadt
+Hamm;5;180849;89104;91745;kreisfreie Stadt
+Herne;5;157368;77053;80315;kreisfreie Stadt
+Ennepe-Ruhr-Kreis;5;325193;157717;167476;Landkreis
+Hochsauerlandkreis;5;261647;130454;131193;Landkreis
+Märkischer Kreis;5;410346;201533;208813;Kreis
+Olpe;5;134439;67321;67118;Kreis
+Siegen-Wittgenstein;5;277136;137437;139699;Kreis
+Soest;5;306068;152175;153893;Kreis
+Unna;5;398866;194899;203967;Kreis
+Darmstadt;6;162243;82530;79713;kreisfreie Stadt
+Frankfurt am Main;6;773068;380566;392502;kreisfreie Stadt
+Offenbach am Main;6;134170;66650;67520;kreisfreie Stadt
+Wiesbaden;6;283083;135153;147930;kreisfreie Stadt
+Bergstraße;6;275205;135926;139279;Landkreis
+Darmstadt-Dieburg;6;300658;148978;151680;Landkreis
+Groß-Gerau;6;280308;140349;139959;Landkreis
+Hochtaunuskreis;6;239488;115782;123706;Kreis
+Main-Kinzig-Kreis;6;430838;212330;218508;Kreis
+Main-Taunus-Kreis;6;242420;118745;123675;Kreis
+Odenwaldkreis;6;97577;48156;49421;Kreis
+Offenbach;6;362137;178293;183844;Landkreis
+Rheingau-Taunus-Kreis;6;189614;92814;96800;Kreis
+Wetteraukreis;6;317298;157070;160228;Kreis
+Gießen;6;278664;136879;141785;Landkreis
+Lahn-Dill-Kreis;6;257289;126692;130597;Kreis
+Limburg-Weilburg;6;174884;86675;88209;Landkreis
+Marburg-Biedenkopf;6;249684;122463;127221;Landkreis
+Vogelsbergkreis;6;106833;53254;53579;Kreis
+Kassel;6;204202;99986;104216;kreisfreie Stadt
+Fulda;6;227456;113060;114396;Landkreis
+Hersfeld-Rotenburg;6;121566;60827;60739;Landkreis
+Schwalm-Eder-Kreis;6;182595;91370;91225;Kreis
+Waldeck-Frankenberg;6;159154;79226;79928;Landkreis
+Werra-Meißner-Kreis;6;100208;49400;50808;Kreis
+Koblenz;7;115268;56506;58762;kreisfreie Stadt
+Ahrweiler;7;128161;63413;64748;Landkreis
+Altenkirchen (Westerwald);7;131467;64960;66507;Landkreis
+Bad Kreuznach;7;161307;78730;82577;Landkreis
+Birkenfeld;7;81760;40508;41252;Landkreis
+Cochem-Zell;7;62666;31329;31337;Landkreis
+Mayen-Koblenz;7;218210;107696;110514;Landkreis
+Neuwied;7;187440;92274;95166;Landkreis
+Rhein-Hunsrück-Kreis;7;105566;52384;53182;Kreis
+Rhein-Lahn-Kreis;7;124381;61390;62991;Kreis
+Westerwaldkreis;7;206282;102170;104112;Kreis
+Trier;7;112195;55489;56706;kreisfreie Stadt
+Bernkastel-Wittlich;7;115099;57453;57646;Landkreis
+Eifelkreis Bitburg-Prüm;7;103642;52202;51440;Kreis
+Vulkaneifel;7;61769;30928;30841;Landkreis
+Trier-Saarburg;7;153860;76695;77165;Landkreis
+Frankenthal;7;49051;23923;25128;kreisfreie Stadt
+Kaiserslautern;7;101228;50948;50280;kreisfreie Stadt
+Landau in der Pfalz;7;47610;22627;24983;kreisfreie Stadt
+Ludwigshafen am Rhein;7;174265;87539;86726;kreisfreie Stadt
+Mainz;7;220552;107358;113194;kreisfreie Stadt
+Neustadt an der Weinstraße;7;53981;26306;27675;kreisfreie Stadt
+Pirmasens;7;40682;19921;20761;kreisfreie Stadt
+Speyer;7;51368;25130;26238;kreisfreie Stadt
+Worms;7;84646;41957;42689;kreisfreie Stadt
+Zweibrücken;7;34534;17075;17459;kreisfreie Stadt
+Alzey-Worms;7;132536;65697;66839;Landkreis
+Bad Dürkheim;7;134546;65716;68830;Landkreis
+Donnersbergkreis;7;76208;37684;38524;Kreis
+Germersheim;7;130793;64990;65803;Landkreis
+Kusel;7;71462;35694;35768;Landkreis
+Südliche Weinstraße;7;112631;55379;57252;Landkreis
+Rhein-Pfalz-Kreis;7;155921;76581;79340;Kreis
+Mainz-Bingen;7;214948;105745;109203;Landkreis
+Südwestpfalz;7;94899;46744;48155;Landkreis
+Stuttgart;8;632865;315634;317231;Stadtkreis
+Böblingen;8;398528;197762;200766;Landkreis
+Esslingen;8;540226;269180;271046;Landkreis
+Göppingen;8;261857;130139;131718;Landkreis
+Ludwigsburg;8;551051;272828;278223;Landkreis
+Rems-Murr-Kreis;8;432397;213396;219001;Landkreis
+Heilbronn;8;128334;64610;63724;Stadtkreis
+Hohenlohekreis;8;115063;57914;57149;Landkreis
+Schwäbisch Hall;8;202834;101772;101062;Landkreis
+Main-Tauber-Kreis;8;134745;67267;67478;Landkreis
+Heidenheim;8;135035;67292;67743;Landkreis
+Ostalbkreis;8;319631;159067;160564;Landkreis
+Baden-Baden;8;57025;27240;29785;Stadtkreis
+Karlsruhe;8;308707;157553;151154;Stadtkreis
+Rastatt;8;234981;116683;118298;Landkreis
+Heidelberg;8;162273;77561;84712;Stadtkreis
+Mannheim;8;315554;157130;158424;Stadtkreis
+Neckar-Odenwald-Kreis;8;145493;72949;72544;Landkreis
+Rhein-Neckar-Kreis;8;555352;272531;282821;Landkreis
+Pforzheim;8;127849;62926;64923;Stadtkreis
+Calw;8;162853;81700;81153;Landkreis
+Enzkreis;8;202536;100318;102218;Landkreis
+Freudenstadt;8;121164;60561;60603;Landkreis
+Freiburg;8;236140;112382;123758;Stadtkreis
+Breisgau-Hochschwarzwald;8;269948;132897;137051;Landkreis
+Emmendingen;8;170996;84495;86501;Landkreis
+Ortenaukreis;8;441885;220341;221544;Landkreis
+Rottweil;8;142593;71335;71258;Landkreis
+Schwarzwald-Baar-Kreis;8;217181;107434;109747;Landkreis
+Tuttlingen;8;144891;72930;71961;Landkreis
+Konstanz;8;292568;141939;150629;Landkreis
+Lörrach;8;233027;114220;118807;Landkreis
+Waldshut;8;173460;85741;87719;Landkreis
+Reutlingen;8;291696;144375;147321;Landkreis
+Tübingen;8;232803;113022;119781;Landkreis
+Zollernalbkreis;8;193235;95712;97523;Landkreis
+Ulm;8;128928;63803;65125;Stadtkreis
+Alb-Donau-Kreis;8;202476;101989;100487;Landkreis
+Biberach;8;206513;104027;102486;Landkreis
+Bodenseekreis;8;222712;109351;113361;Landkreis
+Ravensburg;8;290911;144799;146112;Landkreis
+Sigmaringen;8;134045;67381;66664;Landkreis
+Ingolstadt;9;141029;71308;69721;kreisfreie Stadt
+München;9;1512491;736806;775685;kreisfreie Stadt
+Rosenheim;9;64403;31922;32481;kreisfreie Stadt
+Altötting;9;113798;56238;57560;Landkreis
+Berchtesgadener Land;9;107667;52850;54817;Landkreis
+Bad Tölz-Wolfratshausen;9;129511;63758;65753;Landkreis
+Dachau;9;156982;78276;78706;Landkreis
+Ebersberg;9;146830;73169;73661;Landkreis
+Eichstätt;9;135591;68634;66957;Landkreis
+Erding;9;141680;71117;70563;Landkreis
+Freising;9;184433;94031;90402;Landkreis
+Fürstenfeldbruck;9;221612;108617;112995;Landkreis
+Garmisch-Partenkirchen;9;88840;42925;45915;Landkreis
+Landsberg am Lech;9;123032;61199;61833;Landkreis
+Miesbach;9;101346;49603;51743;Landkreis
+Mühldorf;9;119878;60544;59334;Landkreis
+Neuburg-Schrobenhausen;9;99957;50240;49717;Landkreis
+Pfaffenhofen;9;132082;67028;65054;Landkreis
+Starnberg;9;138785;66902;71883;Landkreis
+Traunstein;9;180779;89067;91712;Landkreis
+Weilheim-Schongau;9;138208;68259;69949;Landkreis
+Landshut;9;75457;36833;38624;kreisfreie Stadt
+Passau;9;53907;26167;27740;kreisfreie Stadt
+Straubing;9;49164;24797;24367;kreisfreie Stadt
+Deggendorf;9;122121;61353;60768;Landkreis
+Freyung-Grafenau;9;79286;39459;39827;Landkreis
+Kelheim;9;125701;63520;62181;Landkreis
+Regen;9;78035;38968;39067;Landkreis
+Rottal-Inn;9;124436;62503;61933;Landkreis
+Straubing-Bogen;9;103806;52035;51771;Landkreis
+Dingolfing-Landau;9;100306;51473;48833;Landkreis
+Amberg;9;42534;20920;21614;kreisfreie Stadt
+Regensburg;9;157443;76690;80753;kreisfreie Stadt
+Weiden i.d.OPf.;9;43052;20833;22219;kreisfreie Stadt
+Amberg-Sulzbach;9;104436;52328;52108;Landkreis
+Cham;9;130193;65441;64752;Landkreis
+Neumarkt i.d.OPf.;9;138086;69843;68243;Landkreis
+Neustadt a.d.Waldnaab;9;95954;47697;48257;Landkreis
+Schwandorf;9;151711;76171;75540;Landkreis
+Tirschenreuth;9;72172;35790;36382;Landkreis
+Bayreuth;9;74506;36399;38107;kreisfreie Stadt
+Bamberg;9;149122;74606;74516;Landkreis
+Coburg;9;87103;43107;43996;Landkreis
+Forchheim;9;117948;58401;59547;Landkreis
+Hof;9;94589;46307;48282;Landkreis
+Kronach;9;66393;32798;33595;Landkreis
+Kulmbach;9;71653;35199;36454;Landkreis
+Lichtenfels;9;67328;33189;34139;Landkreis
+Wunsiedel i.Fichtelgebirge;9;72006;35123;36883;Landkreis
+Erlangen;9;116562;57940;58622;kreisfreie Stadt
+Fürth;9;131433;64348;67085;kreisfreie Stadt
+Nürnberg;9;523026;255250;267776;kreisfreie Stadt
+Schwabach;9;41227;20110;21117;kreisfreie Stadt
+Ansbach;9;188623;94550;94073;Landkreis
+Erlangen-Höchstadt;9;140994;69977;71017;Landkreis
+Nürnberger Land;9;172665;84864;87801;Landkreis
+Neustadt a.d.Aisch-Bad Windsheim;9;103303;51799;51504;Landkreis
+Roth;9;128694;63723;64971;Landkreis
+Weißenburg-Gunzenhausen;9;97120;48407;48713;Landkreis
+Würzburg;9;127810;61008;66802;kreisfreie Stadt
+Aschaffenburg;9;176958;87610;89348;Landkreis
+Bad Kissingen;9;104567;51477;53090;Landkreis
+Rhön-Grabfeld;9;80341;39954;40387;Landkreis
+Haßberge;9;84984;42626;42358;Landkreis
+Kitzingen;9;93247;46806;46441;Landkreis
+Miltenberg;9;129835;64503;65332;Landkreis
+Main-Spessart;9;127132;63281;63851;Landkreis
+Schweinfurt;9;117044;59107;57937;Landkreis
+Augsburg;9;301033;148355;152678;kreisfreie Stadt
+Kaufbeuren;9;45792;22583;23209;kreisfreie Stadt
+Kempten;9;70056;34669;35387;kreisfreie Stadt
+Memmingen;9;45857;22647;23210;kreisfreie Stadt
+Aichach-Friedberg;9;137334;68380;68954;Landkreis
+Dillingen a.d.Donau;9;99109;49626;49483;Landkreis
+Günzburg;9;130112;65595;64517;Landkreis
+Neu-Ulm;9;180425;89639;90786;Landkreis
+Lindau;9;83393;41121;42272;Landkreis
+Ostallgäu;9;145378;72362;73016;Landkreis
+Unterallgäu;9;150068;75833;74235;Landkreis
+Donau-Ries;9;137137;69586;67551;Landkreis
+Oberallgäu;9;158942;78119;80823;Landkreis
+Saarbrücken;101;181959;90445;91514;Landeshauptstadt
+Merzig-Wadern;101;104425;51552;52873;Landkreis
+Neunkirchen;101;132283;65064;67219;Landkreis
+Saarlouis;101;195749;95910;99839;Landkreis
+Saarpfalz-Kreis;101;142419;69192;73227;Kreis
+St. Wendel;101;86942;42753;44189;Landkreis
+Berlin;11;3755251;1843196;1912055;Landeshauptstadt
+Brandenburg an der Havel;12;73609;36106;37503;kreisfreie Stadt
+Cottbus;12;99515;48535;50980;kreisfreie Stadt
+Frankfurt (Oder);12;58230;28223;30007;kreisfreie Stadt
+Potsdam;12;185750;89442;96308;kreisfreie Stadt
+Barnim;12;191849;94508;97341;Landkreis
+Dahme-Spreewald;12;178967;88512;90455;Landkreis
+Elbe-Elster;12;100902;50011;50891;Landkreis
+Havelland;12;169334;83473;85861;Landkreis
+Märkisch-Oderland;12;200292;99079;101213;Landkreis
+Oberhavel;12;218551;107236;111315;Landkreis
+Oberspreewald-Lausitz;12;108263;53007;55256;Landkreis
+Oder-Spree;12;182401;89338;93063;Landkreis
+Ostprignitz-Ruppin;12;99871;49583;50288;Landkreis
+Potsdam-Mittelmark;12;222570;109781;112789;Landkreis
+Prignitz;12;76045;37625;38420;Landkreis
+Spree-Neiße;12;112493;55072;57421;Landkreis
+Teltow-Fläming;12;176648;88122;88526;Landkreis
+Uckermark;12;117845;57498;60347;Landkreis
+Rostock;13;209920;102800;107120;kreisfreie Stadt
+Schwerin;13;98596;47203;51393;kreisfreie Stadt
+Mecklenburgische Seenplatte;13;259568;127218;132350;Landkreis
+Landkreis Rostock;13;220807;109406;111401;Landkreis
+Vorpommern-Rügen;13;227683;111156;116527;Landkreis
+Nordwestmecklenburg;13;160288;79473;80815;Landkreis
+Vorpommern-Greifswald;13;237355;115725;121630;Landkreis
+Ludwigslust-Parchim;13;214161;106714;107447;Landkreis
+Chemnitz;14;248563;122678;125885;kreisfreie Stadt
+Erzgebirgskreis;14;328850;160991;167859;Kreis
+Mittelsachsen;14;300639;149223;151416;Landkreis
+Vogtlandkreis;14;222666;108488;114178;Kreis
+Zwickau;14;310838;151813;159025;Landkreis
+Dresden;14;563311;279338;283973;kreisfreie Stadt
+Bautzen;14;297711;146982;150729;Landkreis
+Görlitz;14;249681;122032;127649;Landkreis
+Meißen;14;241343;118391;122952;Landkreis
+Sächsische Schweiz-Osterzgebirge;14;246204;121264;124940;Landkreis
+Leipzig;14;616093;302741;313352;kreisfreie Stadt
+Nordsachsen;14;199824;99026;100798;Landkreis
+Dessau;15;79655;38509;41146;kreisfreie Stadt
+Halle;15;242083;116835;125248;kreisfreie Stadt
+Magdeburg;15;239364;117729;121635;kreisfreie Stadt
+Altmarkkreis Salzwedel;15;82457;41042;41415;Kreis
+Anhalt-Bitterfeld;15;157235;76971;80264;Landkreis
+Börde;15;171393;85383;86010;Landkreis
+Burgenlandkreis;15;177212;87200;90012;Kreis
+Harz;15;210381;103454;106927;Landkreis
+Jerichower Land;15;90256;44854;45402;Landkreis
+Mansfeld-Südharz;15;132034;64916;67118;Landkreis
+Saalekreis;15;183974;90866;93108;Kreis
+Salzlandkreis;15;186420;90887;95533;Kreis
+Stendal;15;110291;54172;56119;Landkreis
+Wittenberg;15;123888;60893;62995;Landkreis
+Erfurt;16;214969;104205;110764;kreisfreie Stadt
+Gera;16;93634;45174;48460;kreisfreie Stadt
+Jena;16;111191;55301;55890;kreisfreie Stadt
+Suhl;16;37009;18339;18670;kreisfreie Stadt
+Weimar;16;65620;31624;33996;kreisfreie Stadt
+Eichsfeld;16;100091;50150;49941;Landkreis
+Nordhausen;16;82444;40782;41662;Landkreis
+Wartburgkreis;16;159539;79425;80114;Kreis
+Unstrut-Hainich-Kreis;16;102256;50688;51568;Kreis
+Schmalkalden-Meiningen;16;123939;61977;61962;Landkreis
+Gotha;16;134941;66997;67944;Landkreis
+Hildburghausen;16;61926;31002;30924;Landkreis
+Ilm-Kreis;16;106776;53798;52978;Kreis
+Weimarer Land;16;83179;41156;42023;Landkreis
+Sonneberg;16;56922;28093;28829;Landkreis
+Saalfeld-Rudolstadt;16;101494;49926;51568;Landkreis
+Saale-Holzland-Kreis;16;83234;41328;41906;Kreis
+Saale-Orla-Kreis;16;79178;39306;39872;Kreis
+Greiz;16;96381;47487;48894;Landkreis
+Altenburger Land;16;88787;43266;45521;Landkreis

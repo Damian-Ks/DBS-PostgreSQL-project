@@ -1,0 +1,15 @@
+ID_Typ;Hochschultypen;Traegerschaft
+101;Fachhochschulen / HAW;öffentlich-rechtlich
+102;Fachhochschulen / HAW;privat, staatlich anerkannt
+103;Fachhochschulen / HAW;kirchlich, staatlich anerkannt
+201;Universitäten;öffentlich-rechtlich
+202;Universitäten;privat, staatlich anerkannt
+203;Universitäten;kirchlich, staatlich anerkannt
+301;Künstlerische Hochschulen;öffentlich-rechtlich
+302;Künstlerische Hochschulen;privat, staatlich anerkannt
+303;Künstlerische Hochschulen;kirchlich, staatlich anerkannt
+401;Verwaltungshochschule;öffentlich-rechtlich
+402;Verwaltungshochschule;privat, staatlich anerkannt
+403;Verwaltungshochschule;kirchlich, staatlich anerkannt
+501;Hochschulen eigenen Typs;öffentlich-rechtlich
+502;Hochschule eigenen Typs;privat, staatlich annerkannt
