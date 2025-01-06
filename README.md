@@ -27,7 +27,7 @@ This chart illustrates the distribution of students in the top 20 cities with th
 
 1. Run this command to start a PostgreSQL container with a specific username and password
 ```shell
-docker run --name my-postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=mclarenp1 -d -p 5432:5432 postgres:latest
+docker run --name my-postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=password -d -p 5432:5432 postgres:latest
 ```
 
 2. Copy the dump file into the container
@@ -45,7 +45,17 @@ docker exec -it my-postgres bash
 pg_restore -U postgres -d postgres /tmp/Projekt10.dump
 ```
 
-5. Connect to database inside the container
+5. Configure PostgreSQL authentication
+```shell
+sed -i "s/trust/md5/g" /var/lib/postgresql/data/pg_hba.conf
+```
+
+6. Restart the container
+```shell
+docker restart my-postgres
+```
+
+7. Connect to the database inside the container
 ```shell
 psql -U postgres -d postgres
 ```
